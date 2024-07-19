@@ -46,10 +46,6 @@ I am a Data Scientist with a passion for extracting meaningful insights from dat
 - **Tools Used:** Numpy, Pandas, Matplotlib
 - **GitHub Link:** [Supermarket Sales Predictive Analysis](https://github.com/adonighousiazeeshan/data-set-supermarket)
 
-## Coding Profiles
-- LeetCode: [ghousia_zeeshan_786](https://leetcode.com/ghousia_zeeshan_786)
-- HackerRank: [zeeshanghousia71](https://www.hackerrank.com/profile/zeeshanghousia71)
-- Geeks for Geeks: [zeeshangh4lpv](https://auth.geeksforgeeks.org/user/zeeshangh4lpv)
 
 ## Contact
 
