@@ -14,15 +14,16 @@ I am a Data Scientist with a passion for extracting meaningful insights from dat
 ### Data Analysis and Visualization
 - **Libraries:** NumPy, Pandas, Matplotlib
 - **Languages:** Python, SQL
+- 
 
+- 
 ### Machine Learning
 - Experience with various ML algorithms and techniques
 
 ### Programming Languages
 - **C, C++, Python, SQL**
 
-### Frontend Technologies
-- **HTML, CSS, JavaScript**
+
 
 ## Projects
 
